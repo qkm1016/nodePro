@@ -1,0 +1,59 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "implementations",
+            "author": "typicode",
+            "apiId": "server"
+        },
+        {
+            "id": 2,
+            "title": "welcome",
+            "author": "welcome",
+            "apiId": "server"
+        },
+        {
+            "id": 3,
+            "title": "introduction",
+            "author": "introduction",
+            "apiId": "server"
+        },
+        {
+            "id": 4,
+            "title": "codebaseShow",
+            "author": "codebaseShow",
+            "apiId": "server"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1,
+            "apiId": "server"
+        },
+        {
+            "id": 2,
+            "title": "welcome",
+            "author": "welcome",
+            "apiId": "server"
+        },
+        {
+            "id": 3,
+            "title": "introduction",
+            "author": "introduction",
+            "apiId": "server"
+        },
+        {
+            "id": 4,
+            "title": "codebaseShow",
+            "author": "codebaseShow",
+            "apiId": "server"
+        }
+    ],
+    "profile": {
+        "name": "typicode",
+        "title": "typicode",
+        "author": "typicode"
+    }
+}
